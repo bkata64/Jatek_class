@@ -1,0 +1,7 @@
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\bin\Debug\Jatek.exe.config
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\bin\Debug\Jatek.exe
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\bin\Debug\Jatek.pdb
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\obj\Debug\Jatek.csprojAssemblyReference.cache
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\obj\Debug\Jatek.csproj.CoreCompileInputs.cache
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\obj\Debug\Jatek.exe
+C:\Users\szeszi-pc\source\repos\Jatek\Jatek\obj\Debug\Jatek.pdb
